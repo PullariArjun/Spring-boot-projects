@@ -1,0 +1,42 @@
+.nav,
+.nav .innner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.a{
+  display: block;
+  text-decoration: none;
+  padding: 10px 0px;
+  color: rgb(159, 175, 153);
+  
+}
+.a:hover{
+  background-color: #595a85;
+  width: calc(100%-10px);
+  font-size: 20px;
+  
+}
+.link{
+  text-decoration: none;
+  padding: 10px 0px;
+  color: rgb(159, 175, 153);
+  display: inline;
+}
+.nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.nav .div{
+  float: left;
+  width: 80px;
+}
