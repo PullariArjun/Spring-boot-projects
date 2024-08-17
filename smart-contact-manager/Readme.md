@@ -65,7 +65,7 @@ This project aims to streamline the process of managing contacts by providing a 
 
 ### Contact Details
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/61a459d1-a69f-4ec4-a5ce-500e53f764c5" width="350" title="Contact details">
+  <img src="https://github.com/user-attachments/assets/bc70cf28-ff6b-4965-9192-0f4544dd60f0" width="350" title="Contact details">
 </p>
 
 ### Edit Contact
@@ -75,5 +75,6 @@ This project aims to streamline the process of managing contacts by providing a 
 
 ### Delete Contact
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bc70cf28-ff6b-4965-9192-0f4544dd60f0" width="350" title="Delete contact">
+  <img src=https://github.com/user-attachments/assets/29b2356d-2cae-45f7-9e0c-d54cf2092faf
+" width="350" title="Delete contact">
 </p>
